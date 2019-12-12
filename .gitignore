@@ -187,3 +187,11 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/macos,python,windows,jupyternotebooks,visualstudiocode
+
+
+# 혁진이랑 진원이가 추가함:)
+.data/02purchaseTR.csv
+.data/02_s_purchaseTR.csv
+
+# data
+*.csv
